@@ -1,0 +1,59 @@
+<html>
+<head>
+  <script>
+    function showTable(file) {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+          var lines = this.responseText.split("\n");
+          var table = "<table> <tr> ";
+          table += "<th>Gewinn</th> <th>Name</th> <th>sb_Preis</th> <th>buff_Preis</th> </tr>";
+          for (var i = 0; i < lines.length; i++) {
+            if (lines[i]) { // check if the line has content
+              var cells = lines[i].split(";");
+              table += "<tr>";
+              for (var j = 0; j < cells.length; j++) {
+                table += "<td>" + cells[j] + "</td>";
+              }
+              table += "</tr>";
+            }
+          }
+          table += "</table>";
+          document.getElementById("table").innerHTML = table;
+        }
+      };
+      xhttp.open("GET", file, true);
+      xhttp.send();
+    }
+
+    function clearTable() {
+      document.getElementById("table").innerHTML = "";
+    }
+  </script>
+  <style>
+    table {
+      font-family: Arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #dddddd;
+    }
+  </style>
+</head>
+<body>
+<button onclick="showTable('sb_Best_Profit.csv')">Skinbaron</button>
+<button onclick="showTable('buff_Best_Profit.csv')">Buff</button>
+<button onclick="clearTable()">Tabelle leeren</button>
+<div id="table"></div>
+<div id="result-list"></div>
+</body>
+</html>
+
