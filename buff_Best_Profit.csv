@@ -4,7 +4,7 @@
 94;Warhammer 40,000 Sticker Capsule;1.5;0.7726569077428642
 92;Chicken Capsule;1.49;0.7767306699980989
 91;Autograph Capsule | Natus Vincere | MLG Columbus 2016;5.5;2.882865755954483
-91;Half-Life: Alyx Sticker Capsule;1.49;0.7808044322533336
+90;Half-Life: Alyx Sticker Capsule;1.49;0.7821623530050786
 87;Autograph Capsule | Team SoloMid | Cologne 2015;5;2.6737459601857636
 86;Poorly Drawn Capsule;1.3;0.6979712663968931
 86;Autograph Capsule | Team Kinguin | Cologne 2015;7.88;4.2367127454441755
@@ -54,7 +54,7 @@
 17;Collectible Pins Capsule Series 2;9.47;8.117650253931181
 16;London 2018 Returning Challengers Autograph Capsule;7.5;6.469134461312838
 15;CS:GO Weapon Case 2;6.5;5.635371119741452
-13;Fracture Case;0.15;0.13307623367100296
+15;Fracture Case;0.15;0.1303603921675131
 12;Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015;3.27;2.924961299258575
 12;Autograph Capsule | Legends (Foil) | MLG Columbus 2016;14.73;13.131093669373456
 12;Autograph Capsule | Natus Vincere | Cluj-Napoca 2015;3.87;3.4708454414600363
@@ -67,17 +67,18 @@
 8;Prisma Case;0.13;0.1208549469052986
 7;Autograph Capsule | Virtus.Pro | MLG Columbus 2016;3.79;3.5263800352638004
 7;Autograph Capsule | Fnatic | Cologne 2016;8.36;7.821623530050786
-6;Sticker Capsule 2;14.39;13.565628309931833
+6;Sticker Capsule 2;14.39;13.552049102414383
 6;Berlin 2019 Returning Challengers Autograph Capsule;0.51;0.47934602536595966
-4;Collectible Pins Capsule Series 3;8.49;8.1393769859591
+4;Collectible Pins Capsule Series 3;8.49;8.138019065207354
 4;Katowice 2019 Returning Challengers Autograph Capsule;3.83;3.6731756334700307
 4;CS:GO Weapon Case 3;4.38;4.2095543304092775
 4;Autograph Capsule | Group B (Foil) | Cologne 2015;10.2;9.777029412563483
 3;Autograph Capsule | Astralis | Atlanta 2017;6.1;5.916460715352652
 3;Autograph Capsule | Legends (Foil) | Atlanta 2017;62.7;61.10643382852177
+3;Danger Zone Case;0.14;0.13579207517449282
 2;Dreams & Nightmares Case;0.49;0.4820618668694495
 2;Winter Offensive Weapon Case;3.88;3.814399391651503
-2;CS:GO Weapon Case;50;48.95304310040466
+2;CS:GO Weapon Case;50;49.019581217240166
 2;Autograph Capsule | OpTic Gaming | Cologne 2016;5.52;5.415387957958774
 2;Operation Riptide Case;1.61;1.5751880720241165
 2;Operation Hydra Case;11.46;11.216425409413107
@@ -88,4 +89,3 @@
 1;Autograph Capsule | Group A (Foil) | Cologne 2015;8.4;8.276526981885338
 1;Operation Broken Fang Case;1.44;1.4258167893321747
 0;Revolver Case;0.4;0.3992287010130089
-0;Danger Zone Case;0.14;0.1398658374297276
