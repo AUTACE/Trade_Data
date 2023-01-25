@@ -10,11 +10,11 @@
 86;Autograph Capsule | Team Kinguin | Cologne 2015;7.88;4.2367127454441755
 85;Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015;7.99;4.311398386790147
 84;Autograph Capsule | Team EnVyUs | Atlanta 2017;10;5.431683006979713
-83;Rio 2022 Legends Sticker Capsule;0.36;0.19689850900301456
+82;Rio 2022 Legends Sticker Capsule;0.36;0.19825642975475952
 81;Autograph Capsule | Team eBettle | Cologne 2015;4.3;2.3817929985606043
 80;Perfect World Sticker Capsule 2;1.2;0.6667390891067597
 73;Autograph Capsule | Flipsid3 Tactics | Atlanta 2017;9.99;5.786100323185139
-71;Autograph Capsule | Team Liquid | Cologne 2016;8.96;5.249721626245892
+71;Autograph Capsule | Team Liquid | Cologne 2016;8.96;5.236142418728443
 70;Autograph Capsule | Gambit Gaming | Atlanta 2017;5;2.93446674452079
 70;Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule;23.53;13.850791667798267
 66;Autograph Capsule | Fnatic | Cluj-Napoca 2015;4.19;2.517585073735097
@@ -32,11 +32,11 @@
 45;Perfect World Sticker Capsule 1;1.09;0.7509301757149454
 41;Bestiary Capsule;1.49;1.056462344857554
 39;London 2018 Legends Autograph Capsule;8.5;6.110643382852177
-37;Snakebite Case;0.13;0.09505445262214497
+39;Snakebite Case;0.13;0.09369653187040004
 34;Autograph Capsule | Fnatic | Atlanta 2017;3.49;2.5977023980880474
 33;Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015;12.58;9.491866054697049
 30;Autograph Capsule | Natus Vincere | Atlanta 2017;18.62;14.294831753618858
-29;Enfu Sticker Capsule;1;0.7726569077428642
+30;Enfu Sticker Capsule;1;0.7712989869911192
 28;Recoil Case;0.7;0.546588905465889
 27;Collectible Pins Capsule Series 1;9.99;7.837918579071725
 27;Half-Life: Alyx Collectible Pins Capsule;9.6;7.565441475654414
@@ -50,9 +50,9 @@
 19;Autograph Capsule | Astralis | Cologne 2016;15.77;13.292686238831102
 19;Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015;6.49;5.431683006979713
 18;Team Roles Capsule;1;0.8487004698405801
-17;Antwerp 2022 Champions Autograph Capsule;0.22;0.1873930637408001
+18;Antwerp 2022 Champions Autograph Capsule;0.22;0.18603514298905519
 17;Collectible Pins Capsule Series 2;9.47;8.117650253931181
-17;CS:GO Weapon Case 2;6.5;5.552537953885012
+17;CS:GO Weapon Case 2;6.5;5.553895874636757
 16;London 2018 Returning Challengers Autograph Capsule;7.5;6.469134461312838
 15;Fracture Case;0.15;0.1303603921675131
 12;Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015;3.27;2.924961299258575
@@ -62,7 +62,6 @@
 11;Danger Zone Case;0.16;0.143767801437678
 11;Prisma 2 Case;0.13;0.11678118465006383
 10;Autograph Capsule | G2 Esports | Atlanta 2017;3.29;2.9847098123353524
-9;Prisma Case;0.13;0.11949702615355369
 9;Autograph Capsule | GODSENT | Atlanta 2017;2.43;2.235182422351824
 8;Community Sticker Capsule 1;3.42;3.163955351565683
 8;Autograph Capsule | Team Liquid | MLG Columbus 2016;4.49;4.140300372070286
@@ -70,6 +69,7 @@
 7;Sticker Capsule 2;14.39;13.470573857309688
 7;Autograph Capsule | Virtus.Pro | MLG Columbus 2016;3.79;3.5263800352638004
 7;Autograph Capsule | Fnatic | Cologne 2016;8.36;7.821623530050786
+6;Prisma Case;0.13;0.12221286765704353
 6;Berlin 2019 Returning Challengers Autograph Capsule;0.51;0.47934602536595966
 4;Collectible Pins Capsule Series 3;8.49;8.1393769859591
 4;Katowice 2019 Returning Challengers Autograph Capsule;3.83;3.6731756334700307
@@ -78,12 +78,12 @@
 3;Autograph Capsule | Astralis | Atlanta 2017;6.1;5.916460715352652
 3;Autograph Capsule | Legends (Foil) | Atlanta 2017;62.7;61.10643382852177
 3;Winter Offensive Weapon Case;3.88;3.772303848347411
-2;Dreams & Nightmares Case;0.49;0.4820618668694495
+3;Dreams & Nightmares Case;0.49;0.4752722631107249
 2;CS:GO Weapon Case;50;49.019581217240166
 2;Glove Case;2.7;2.638003526380035
 2;Autograph Capsule | OpTic Gaming | Cologne 2016;5.52;5.415387957958774
 2;Operation Riptide Case;1.61;1.5751880720241165
-2;Operation Hydra Case;11.46;11.236794220689282
+2;Operation Hydra Case;11.46;11.230004616930557
 1;Operation Wildfire Case;0.46;0.4576192933380408
 1;Shattered Web Case;1.03;1.0184405638086962
 1;Autograph Capsule | Group A (Foil) | Cologne 2015;8.4;8.276526981885338
