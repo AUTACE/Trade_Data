@@ -4,7 +4,7 @@
 94;Warhammer 40,000 Sticker Capsule;1.5;0.7726569077428642
 92;Chicken Capsule;1.49;0.7767306699980989
 91;Autograph Capsule | Natus Vincere | MLG Columbus 2016;5.5;2.882865755954483
-90;Half-Life: Alyx Sticker Capsule;1.49;0.7848781945085685
+90;Half-Life: Alyx Sticker Capsule;1.49;0.7835202737568235
 87;Autograph Capsule | Team SoloMid | Cologne 2015;5;2.6737459601857636
 86;Poorly Drawn Capsule;1.3;0.6979712663968931
 86;Autograph Capsule | Team Kinguin | Cologne 2015;7.88;4.2367127454441755
@@ -31,8 +31,8 @@
 46;Sugarface Capsule;1.3;0.8894380923929279
 45;Perfect World Sticker Capsule 1;1.09;0.7522880964666903
 41;Bestiary Capsule;1.49;1.056462344857554
-37;Snakebite Case;0.13;0.09505445262214497
 37;London 2018 Legends Autograph Capsule;8.5;6.219277042991771
+35;Snakebite Case;0.13;0.0964123733738899
 34;Autograph Capsule | Fnatic | Atlanta 2017;3.49;2.5977023980880474
 33;Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015;12.58;9.491866054697049
 30;Autograph Capsule | Natus Vincere | Atlanta 2017;18.62;14.294831753618858
@@ -61,11 +61,11 @@
 11;Clutch Case;0.27;0.24413400244134004
 11;Danger Zone Case;0.16;0.143767801437678
 11;Prisma 2 Case;0.13;0.11678118465006383
-10;Community Sticker Capsule 1;3.42;3.1096385214958855
 10;Autograph Capsule | G2 Esports | Atlanta 2017;3.29;2.9847098123353524
 9;Autograph Capsule | GODSENT | Atlanta 2017;2.43;2.235182422351824
 9;Sticker Capsule 2;14.39;13.171831291925804
 9;Prisma Case;0.13;0.11949702615355369
+8;Community Sticker Capsule 1;3.42;3.163955351565683
 8;Autograph Capsule | Team Liquid | MLG Columbus 2016;4.49;4.140300372070286
 8;Krakow 2017 Challengers Autograph Capsule;49.9;46.3729936720893
 7;Autograph Capsule | Virtus.Pro | MLG Columbus 2016;3.79;3.5263800352638004
@@ -76,14 +76,14 @@
 4;CS:GO Weapon Case 3;4.38;4.214986013416257
 4;Autograph Capsule | Group B (Foil) | Cologne 2015;10.2;9.777029412563483
 3;Autograph Capsule | Astralis | Atlanta 2017;6.1;5.916460715352652
-3;CS:GO Weapon Case;50;48.47777083729394
 3;Autograph Capsule | Legends (Foil) | Atlanta 2017;62.7;61.10643382852177
 3;Dreams & Nightmares Case;0.49;0.4752722631107249
-3;Winter Offensive Weapon Case;3.88;3.772303848347411
+2;CS:GO Weapon Case;50;49.019581217240166
 2;Glove Case;2.7;2.638003526380035
 2;Autograph Capsule | OpTic Gaming | Cologne 2016;5.52;5.415387957958774
 2;Operation Riptide Case;1.61;1.5751880720241165
 2;Operation Hydra Case;11.46;11.236794220689282
+1;Winter Offensive Weapon Case;3.88;3.8279785991689526
 1;Operation Wildfire Case;0.46;0.4576192933380408
 1;Shattered Web Case;1.03;1.0184405638086962
 1;Autograph Capsule | Group A (Foil) | Cologne 2015;8.4;8.276526981885338
