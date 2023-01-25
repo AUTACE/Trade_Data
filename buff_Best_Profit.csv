@@ -1,9 +1,9 @@
 97;Autograph Capsule | Team EnVyUs | MLG Columbus 2016;12;6.097064175334728
 97;Autograph Capsule | Virtus.Pro | Atlanta 2017;5;2.5365959642595257
 96;Slid3 Capsule;1.49;0.7617935417289048
-95;Warhammer 40,000 Sticker Capsule;1.5;0.7699410662393743
-92;Chicken Capsule;1.49;0.775372749246354
-92;Half-Life: Alyx Sticker Capsule;1.49;0.7767306699980989
+95;Warhammer 40,000 Sticker Capsule;1.5;0.7685831454876294
+93;Chicken Capsule;1.49;0.774014828494609
+92;Half-Life: Alyx Sticker Capsule;1.49;0.775372749246354
 91;Autograph Capsule | Natus Vincere | MLG Columbus 2016;5.5;2.882865755954483
 87;Autograph Capsule | Team SoloMid | Cologne 2015;5;2.6737459601857636
 86;Poorly Drawn Capsule;1.3;0.6979712663968931
@@ -22,17 +22,17 @@
 60;Autograph Capsule | Cloud9 G2A | Cologne 2015;6.31;3.937970180060292
 56;Autograph Capsule | Team Immunity | Cologne 2015;7.22;4.615572635181011
 56;Autograph Capsule | Ninjas in Pyjamas | Cologne 2015;4;2.563754379294424
-53;CS20 Sticker Capsule;1.29;0.8405529453301106
+54;CS20 Sticker Capsule;1.29;0.8391950245783656
 53;Pinups Capsule;1.15;0.7536460172184352
 49;Autograph Capsule | Astralis | MLG Columbus 2016;5;3.366285543575677
 49;Autograph Capsule | Natus Vincere | Cologne 2016;7.52;5.047391434235898
 49;London 2018 Minor Challengers Autograph Capsule;6.5;4.371146899866924
 47;Autograph Capsule | Fnatic | Cologne 2015;3.99;2.714483582738111
-46;Sugarface Capsule;1.3;0.8894380923929279
+46;Sugarface Capsule;1.3;0.888080171641183
 45;Perfect World Sticker Capsule 1;1.09;0.7522880964666903
 42;Bestiary Capsule;1.49;1.0510306618505745
 37;London 2018 Legends Autograph Capsule;8.5;6.219277042991771
-35;Snakebite Case;0.13;0.0964123733738899
+37;Snakebite Case;0.13;0.09505445262214497
 34;Autograph Capsule | Fnatic | Atlanta 2017;3.49;2.5977023980880474
 33;Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015;12.58;9.491866054697049
 30;Autograph Capsule | Natus Vincere | Atlanta 2017;18.62;14.294831753618858
@@ -50,19 +50,18 @@
 19;Autograph Capsule | Astralis | Cologne 2016;15.77;13.292686238831102
 19;Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015;6.49;5.431683006979713
 18;Team Roles Capsule;1;0.8487004698405801
-17;Antwerp 2022 Champions Autograph Capsule;0.22;0.1873930637408001
+17;Antwerp 2022 Champions Autograph Capsule;0.22;0.188750984492545
 17;Collectible Pins Capsule Series 2;9.47;8.117650253931181
 16;London 2018 Returning Challengers Autograph Capsule;7.5;6.469134461312838
-16;CS:GO Weapon Case 2;6.5;5.6082127047065535
-16;Fracture Case;0.15;0.12900247141576818
+16;CS:GO Weapon Case 2;6.5;5.621791912224003
 12;Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015;3.27;2.911382091741126
 12;Autograph Capsule | Legends (Foil) | MLG Columbus 2016;14.73;13.131093669373456
 12;Autograph Capsule | Natus Vincere | Cluj-Napoca 2015;3.87;3.4694875207082916
 10;Autograph Capsule | G2 Esports | Atlanta 2017;3.29;2.9847098123353524
 10;Community Sticker Capsule 1;3.42;3.1069226799923957
-10;Prisma Case;0.13;0.11813910540180876
-10;Prisma 2 Case;0.13;0.11813910540180876
 9;Autograph Capsule | GODSENT | Atlanta 2017;2.43;2.235182422351824
+8;Prisma 2 Case;0.13;0.1208549469052986
+8;Prisma Case;0.13;0.1208549469052986
 8;Autograph Capsule | Team Liquid | MLG Columbus 2016;4.49;4.140300372070286
 8;Krakow 2017 Challengers Autograph Capsule;49.9;46.3729936720893
 7;Autograph Capsule | Virtus.Pro | MLG Columbus 2016;3.79;3.5263800352638004
@@ -81,6 +80,7 @@
 2;Winter Offensive Weapon Case;3.88;3.802178104885799
 2;Autograph Capsule | OpTic Gaming | Cologne 2016;5.52;5.415387957958774
 2;Operation Hydra Case;11.46;11.216425409413107
+1;Fracture Case;0.13;0.12900247141576818
 1;Dreams & Nightmares Case;0.49;0.48749354987642923
 1;Clutch Case;0.24;0.23763613155536245
 1;Glove Case;2.47;2.4442573531408707
